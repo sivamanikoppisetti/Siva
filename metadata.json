@@ -1,0 +1,6 @@
+{
+  "name": "OmniConvert - Universal File & Image Converter",
+  "description": "Fast, private, and universal converter for images, documents, audio, data, and code with client-side processing and AI-powered transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
